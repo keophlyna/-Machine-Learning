@@ -130,8 +130,8 @@ The model uses 12 features for prediction:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/keophlyna/-Machine-Learning.git
-cd -Machine-Learning
+git clone https://github.com/keophlyna/Mental-Health-Prediction-among-employees.git
+cd Mental-Health-Prediction-among-employees
 ```
 
 2. **Install dependencies**
@@ -181,7 +181,7 @@ The notebook contains:
 ## 📁 Project Structure
 
 ```
--Machine-Learning/
+Mental-Health-Prediction-among-employees/
 │
 ├── app.py                                    # Streamlit web application
 ├── mental_health_ver2_0.ipynb               # Model training notebook
